@@ -100,7 +100,7 @@ This project is licensed under the MIT License. For more details, refer to the `
 ---
 
 ## **Contact**
-- **Author:** [Amirshayan Jaili]
+- **Author:** [Amirshayan Jalili]
 - **Email:** [SHAYAN138190@GMAIL.CO]
 - **GitHub:** (https://github.com/Amirshayan2002)
 
